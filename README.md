@@ -16,7 +16,7 @@ I'm looking for **software engineering internships**.
 
 | Project | What it does | Stack |
 |---|---|---|
-| [TutorPay](https://github.com/atabeyRajabli/tutorpay) | Payment tracker for private tutoring. It counts classes toward each student's billing cycle, flags who owes money and drafts WhatsApp reminders in the parent's language. Has revenue analytics, income projections and automatic daily backups. I use it for my own students. | Python, Flask, SQLite, vanilla JS |
+| [TutorPay](https://github.com/atabeyRajabli/tutorpay) | Open-source payment tracker for independent tutors. It counts classes toward each student's billing cycle, flags who owes money and drafts WhatsApp or email reminders in each family's language. Has revenue analytics, income projections and automatic daily backups. I built it for my own students, then generalized it for any tutor. | Python, Flask, SQLite, vanilla JS |
 | [Azercosmos Satellite Tracker](https://github.com/atabeyRajabli/azercosmos-tracker) | Live position, ground track and Baku pass predictions for Azerbaijan's three satellites, from Celestrak TLE data and SGP4 propagation. | Python, Skyfield, Plotly, Streamlit |
 
 #### Teaching
