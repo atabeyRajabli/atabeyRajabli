@@ -8,9 +8,11 @@ I'm looking for **software engineering internships**.
 
 - **ICPC South USA Regional, 1st place (2025):** 1st of 96 universities across 20 states
 - **Meta Hacker Cup (2023):** world quarter-finalist
-- **Codeforces Expert:** peak rating 1605, top 4% worldwide
+- **Codeforces Expert:** [a1abay](https://codeforces.com/profile/a1abay), max rating 1630, top 4% worldwide
 - **IOI Azerbaijan national team contender (2024)**, National Olympiad in Informatics silver (2024, 2025) and bronze (2023)
 - **NeoScience World Coding Olympiad (Netherlands):** gold medal, 2024
+
+Solutions and write-ups: [competitive-programming](https://github.com/atabeyRajabli/competitive-programming)
 
 #### Projects
 
