@@ -12,15 +12,12 @@ I'm looking for **software engineering internships**.
 - **IOI Azerbaijan national team contender (2024)**, National Olympiad in Informatics silver (2024, 2025) and bronze (2023)
 - **NeoScience World Coding Olympiad (Netherlands):** gold medal, 2024
 
-Solutions and write-ups: [competitive-programming](https://github.com/atabeyRajabli/competitive-programming)
-
 #### Projects
 
 | Project | What it does | Stack |
 |---|---|---|
 | [TutorPay](https://github.com/atabeyRajabli/tutorpay) | Payment tracker for private tutoring. It counts classes toward each student's billing cycle, flags who owes money and drafts WhatsApp reminders in the parent's language. Has revenue analytics, income projections and automatic daily backups. I use it for my own students. | Python, Flask, SQLite, vanilla JS |
 | [Azercosmos Satellite Tracker](https://github.com/atabeyRajabli/azercosmos-tracker) | Live position, ground track and Baku pass predictions for Azerbaijan's three satellites, from Celestrak TLE data and SGP4 propagation. | Python, Skyfield, Plotly, Streamlit |
-| [Olympiad prep site](https://atabeyrajabli.github.io/olimpiada/) ([code](https://github.com/atabeyRajabli/olimpiada)) | Sign-up page for my informatics olympiad course in Baku. Parents take a one-minute quiz that places their child in a group, and the result goes to me as a ready-made WhatsApp message. One HTML file, no tracking. | HTML, CSS, JavaScript, GitHub Pages |
 
 #### Teaching
 
