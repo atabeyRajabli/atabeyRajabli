@@ -1,6 +1,6 @@
 ### Hi, I'm Atabay
 
-I study Computer Science and Math at the University of Southern Mississippi (class of 2029, 4.0 GPA). Most of my time goes into competitive programming. The rest goes into small tools that solve problems I actually have.
+I study Computer Science and Math at the University of Southern Mississippi (class of 2029, 4.0 GPA). Most of my time goes into competitive programming. The rest goes into small tools and side projects.
 
 I'm looking for **software engineering internships**.
 
@@ -16,7 +16,6 @@ I'm looking for **software engineering internships**.
 
 | Project | What it does | Stack |
 |---|---|---|
-| [TutorPay](https://github.com/atabeyRajabli/tutorpay) | Open-source payment tracker for independent tutors. It counts classes toward each student's billing cycle, flags who owes money and drafts WhatsApp or email reminders in each family's language. Has revenue analytics, income projections and automatic daily backups. I built it for my own students, then generalized it for any tutor. | Python, Flask, SQLite, vanilla JS |
 | [Azercosmos Satellite Tracker](https://github.com/atabeyRajabli/azercosmos-tracker) | Live position, ground track and Baku pass predictions for Azerbaijan's three satellites, from Celestrak TLE data and SGP4 propagation. | Python, Skyfield, Plotly, Streamlit |
 
 #### Teaching
